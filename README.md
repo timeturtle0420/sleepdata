@@ -23,7 +23,9 @@
 수면데이터!   
 데이터를 찾아보고 , 만져보고싶어졌다.
 
-
+## 다룰 데이터
+[sleep-EDF DATA](https://physionet.org/content/sleep-edfx/1.0.0/)라는 데이터   
+[##이미 분석한 논문도 있네...(참고하면서해보자)](https://m.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=fd48855dbfcc6cf8ffe0bdc3ef48d419#redirect)
  
 
 
